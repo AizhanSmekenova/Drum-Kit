@@ -1,7 +1,7 @@
 # Drum-Kit
 
 In this project I completely reproduced the drummer kit.
-Can play your masterpies just by clicking those boxes on screen
+Can play your masterpiece just by clicking those boxes on screen
 
 
 https://aizhansmekenova.github.io/Drum-Kit/
